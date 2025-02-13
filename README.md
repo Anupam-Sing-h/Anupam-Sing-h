@@ -2,8 +2,8 @@
 - 👀 I’m interested in MERN Full Stack and AI & ML
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me - anupamsingh584210@gmail.com
+- 😄 
 - ⚡ Fun fact: ...
 
 <!---
