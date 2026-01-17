@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me - anupamsingh584210@gmail.com
+- 🌐 My Portfolio - https://my-portfolio-dusky-eight-52.vercel.app/
 - 😄 
 - ⚡ Fun fact: ...
 
